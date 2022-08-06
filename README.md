@@ -47,6 +47,7 @@ Also make sure the images are in qb-inventory>html>images
 # Dependencies
 
 * qb-target - https://github.com/BerkieBb/qb-target
+* ps-ui - https://github.com/Project-Sloth/ps-ui
 
 
 ## Developed by Coffeelot#1586 and Wuggie#1683
